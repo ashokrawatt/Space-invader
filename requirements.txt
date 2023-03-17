@@ -1,0 +1,4 @@
+ pygame
+ random
+ math
+ mixer==6.0.2
